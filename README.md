@@ -1,5 +1,6 @@
 # open-cv-minecraft
 This is a Minecraft clone made using the Python Ursina engine and a controller using OpenCV made by Arth Anant
+
 Technologies used: - • Python 3.9.0: -
              Python is an interpreted high-level general-purpose programming 
              language. Its design philosophy emphasizes code readability with its use 
@@ -16,6 +17,7 @@ Technologies used: - • Python 3.9.0: -
              later acquired by Intel). The library is cross-platform and free for use under the open-source Apache 2 License. Starting with 2011, OpenCV features 
              GPU acceleration for real-time operations.
             
+
 Features: - • Play the game using mouse and keyboard.
             • Build any structures we desire with the help of 4 distinct blocks 
               that you c an choose by pressing the 1,2,3,4 keys.
@@ -46,6 +48,7 @@ Game output: -
 Camera controller output: -
 ![image](https://user-images.githubusercontent.com/51259044/146031582-dc3ac769-f231-4799-8a23-e6c84e044701.png)
 ![image](https://user-images.githubusercontent.com/51259044/146031616-6b45b67d-07fc-4420-8464-95df8dddbcb3.png)
+
 References used: -
                 https://www.ursinaengine.org/documentation.html
                 https://www.tutorialspoint.com/opencv/index.htm
